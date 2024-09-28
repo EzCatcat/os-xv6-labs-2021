@@ -37,3 +37,4 @@ entry("sbrk");
 entry("sleep");
 entry("uptime");
 entry("trace"); # 添加存根
+entry("sysinfo"); # 添加存根
